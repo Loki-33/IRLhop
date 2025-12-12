@@ -4,13 +4,13 @@ Trained an expert first on the Hopper-v5 env from the gymnasium library, from wh
 Trained on both GAIL and BehaviourCloning methods.
 
 ## GAIL 
-Sample video 
+Sample video<br>
 ![GAIL DEMO](gail_hopper.gif)
 
 TOTAL REWARD: 170 
 
 ## Behaviour Cloning
-Sample video
+Sample video<br>
 ![BeC Demo](bc_hopper.gif)
 
 TOTAL REWARD: 630
